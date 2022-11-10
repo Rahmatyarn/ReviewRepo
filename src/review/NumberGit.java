@@ -6,19 +6,7 @@ public class NumberGit {
 	
 		
 		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
-		System.out.println("I love you zindagim");
+
 		
 	}
 
