@@ -6,11 +6,35 @@ public class NumberGit {
 	
 		
 		System.out.println("I love you zindagim");
-<<<<<<< HEAD
 		System.out.println("I love you zindagim");
 		System.out.println("I love you zindagim");
-=======
->>>>>>> b5bd396ebe8841cffc691427d1ff39fe2855f1fa
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		System.out.println("I love you zindagim");
+		
 
 		
 	}
